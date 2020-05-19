@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Fragment Application</string>
+    <string name="fragment_btn">My Fragment</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="showdeatils">Show Details</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_blank_fragment">second blank fragment</string>
+</resources>
